@@ -7,6 +7,25 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		81143BD41DF6652A004C3B20 /* black.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 81143BCA1DF6652A004C3B20 /* black.jpg */; };
+		81143BD51DF6652A004C3B20 /* blue.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 81143BCB1DF6652A004C3B20 /* blue.jpg */; };
+		81143BD61DF6652A004C3B20 /* brown.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 81143BCC1DF6652A004C3B20 /* brown.jpg */; };
+		81143BD71DF6652A004C3B20 /* green.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 81143BCD1DF6652A004C3B20 /* green.jpg */; };
+		81143BD81DF6652A004C3B20 /* orange.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 81143BCE1DF6652A004C3B20 /* orange.jpg */; };
+		81143BD91DF6652A004C3B20 /* pink.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 81143BCF1DF6652A004C3B20 /* pink.jpg */; };
+		81143BDA1DF6652A004C3B20 /* purple.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 81143BD01DF6652A004C3B20 /* purple.jpg */; };
+		81143BDB1DF6652A004C3B20 /* red.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 81143BD11DF6652A004C3B20 /* red.jpg */; };
+		81143BDC1DF6652A004C3B20 /* white.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 81143BD21DF6652A004C3B20 /* white.jpg */; };
+		81143BDD1DF6652A004C3B20 /* yellow.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 81143BD31DF6652A004C3B20 /* yellow.jpg */; };
+		81143BE41DF6653C004C3B20 /* daisy.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 81143BDF1DF6653C004C3B20 /* daisy.jpg */; };
+		81143BE61DF6653C004C3B20 /* orchid.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 81143BE11DF6653C004C3B20 /* orchid.jpg */; };
+		81143BE71DF6653C004C3B20 /* Rose.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 81143BE21DF6653C004C3B20 /* Rose.jpg */; };
+		81143BE81DF6653C004C3B20 /* Sunflower.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 81143BE31DF6653C004C3B20 /* Sunflower.jpg */; };
+		81143BEA1DF667F7004C3B20 /* ColorList.plist in Resources */ = {isa = PBXBuildFile; fileRef = 81143BE91DF667F7004C3B20 /* ColorList.plist */; };
+		81143BEC1DF66865004C3B20 /* FlowerList.plist in Resources */ = {isa = PBXBuildFile; fileRef = 81143BEB1DF66865004C3B20 /* FlowerList.plist */; };
+		81143BEE1DF6691C004C3B20 /* Color.png in Resources */ = {isa = PBXBuildFile; fileRef = 81143BED1DF6691C004C3B20 /* Color.png */; };
+		81143BF01DF6692E004C3B20 /* flower.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 81143BEF1DF6692E004C3B20 /* flower.jpeg */; };
+		81143BF21DF66B5B004C3B20 /* Lotus.png in Resources */ = {isa = PBXBuildFile; fileRef = 81143BF11DF66B5B004C3B20 /* Lotus.png */; };
 		81B38CC01DF522A700874DC0 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81B38CBF1DF522A700874DC0 /* AppDelegate.swift */; };
 		81B38CC51DF522A700874DC0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81B38CC31DF522A700874DC0 /* Main.storyboard */; };
 		81B38CC71DF522A700874DC0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 81B38CC61DF522A700874DC0 /* Assets.xcassets */; };
@@ -60,9 +79,31 @@
 		81B38DF91DF5553700874DC0 /* strawberry.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 81B38DC91DF5553600874DC0 /* strawberry.jpg */; };
 		81B38DFA1DF5553700874DC0 /* watermelon.png in Resources */ = {isa = PBXBuildFile; fileRef = 81B38DCA1DF5553600874DC0 /* watermelon.png */; };
 		81B38DFB1DF5553700874DC0 /* fruits.png in Resources */ = {isa = PBXBuildFile; fileRef = 81B38DCB1DF5553600874DC0 /* fruits.png */; };
+		81B38DFD1DF5588B00874DC0 /* DetailVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81B38DFC1DF5588B00874DC0 /* DetailVC.swift */; };
+		81B38E021DF55C0000874DC0 /* AnimalsList.plist in Resources */ = {isa = PBXBuildFile; fileRef = 81B38E001DF55C0000874DC0 /* AnimalsList.plist */; };
+		81B38E031DF55C0000874DC0 /* FruitsList.plist in Resources */ = {isa = PBXBuildFile; fileRef = 81B38E011DF55C0000874DC0 /* FruitsList.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		81143BCA1DF6652A004C3B20 /* black.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = black.jpg; path = Color/black.jpg; sourceTree = "<group>"; };
+		81143BCB1DF6652A004C3B20 /* blue.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = blue.jpg; path = Color/blue.jpg; sourceTree = "<group>"; };
+		81143BCC1DF6652A004C3B20 /* brown.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = brown.jpg; path = Color/brown.jpg; sourceTree = "<group>"; };
+		81143BCD1DF6652A004C3B20 /* green.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = green.jpg; path = Color/green.jpg; sourceTree = "<group>"; };
+		81143BCE1DF6652A004C3B20 /* orange.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = orange.jpg; path = Color/orange.jpg; sourceTree = "<group>"; };
+		81143BCF1DF6652A004C3B20 /* pink.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = pink.jpg; path = Color/pink.jpg; sourceTree = "<group>"; };
+		81143BD01DF6652A004C3B20 /* purple.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = purple.jpg; path = Color/purple.jpg; sourceTree = "<group>"; };
+		81143BD11DF6652A004C3B20 /* red.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = red.jpg; path = Color/red.jpg; sourceTree = "<group>"; };
+		81143BD21DF6652A004C3B20 /* white.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = white.jpg; path = Color/white.jpg; sourceTree = "<group>"; };
+		81143BD31DF6652A004C3B20 /* yellow.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = yellow.jpg; path = Color/yellow.jpg; sourceTree = "<group>"; };
+		81143BDF1DF6653C004C3B20 /* daisy.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = daisy.jpg; path = Flower/daisy.jpg; sourceTree = "<group>"; };
+		81143BE11DF6653C004C3B20 /* orchid.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = orchid.jpg; path = Flower/orchid.jpg; sourceTree = "<group>"; };
+		81143BE21DF6653C004C3B20 /* Rose.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Rose.jpg; path = Flower/Rose.jpg; sourceTree = "<group>"; };
+		81143BE31DF6653C004C3B20 /* Sunflower.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Sunflower.jpg; path = Flower/Sunflower.jpg; sourceTree = "<group>"; };
+		81143BE91DF667F7004C3B20 /* ColorList.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = ColorList.plist; sourceTree = "<group>"; };
+		81143BEB1DF66865004C3B20 /* FlowerList.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = FlowerList.plist; sourceTree = "<group>"; };
+		81143BED1DF6691C004C3B20 /* Color.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Color.png; sourceTree = "<group>"; };
+		81143BEF1DF6692E004C3B20 /* flower.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = flower.jpeg; sourceTree = "<group>"; };
+		81143BF11DF66B5B004C3B20 /* Lotus.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Lotus.png; sourceTree = "<group>"; };
 		81B38CBC1DF522A700874DC0 /* English4Kids.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = English4Kids.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		81B38CBF1DF522A700874DC0 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		81B38CC41DF522A700874DC0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -118,6 +159,9 @@
 		81B38DC91DF5553600874DC0 /* strawberry.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = strawberry.jpg; sourceTree = "<group>"; };
 		81B38DCA1DF5553600874DC0 /* watermelon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = watermelon.png; sourceTree = "<group>"; };
 		81B38DCB1DF5553600874DC0 /* fruits.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = fruits.png; sourceTree = "<group>"; };
+		81B38DFC1DF5588B00874DC0 /* DetailVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DetailVC.swift; sourceTree = "<group>"; };
+		81B38E001DF55C0000874DC0 /* AnimalsList.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = AnimalsList.plist; sourceTree = "<group>"; };
+		81B38E011DF55C0000874DC0 /* FruitsList.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = FruitsList.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -131,9 +175,42 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		81143BC91DF6651D004C3B20 /* Color */ = {
+			isa = PBXGroup;
+			children = (
+				81143BCA1DF6652A004C3B20 /* black.jpg */,
+				81143BCB1DF6652A004C3B20 /* blue.jpg */,
+				81143BCC1DF6652A004C3B20 /* brown.jpg */,
+				81143BCD1DF6652A004C3B20 /* green.jpg */,
+				81143BCE1DF6652A004C3B20 /* orange.jpg */,
+				81143BCF1DF6652A004C3B20 /* pink.jpg */,
+				81143BD01DF6652A004C3B20 /* purple.jpg */,
+				81143BD11DF6652A004C3B20 /* red.jpg */,
+				81143BD21DF6652A004C3B20 /* white.jpg */,
+				81143BD31DF6652A004C3B20 /* yellow.jpg */,
+			);
+			name = Color;
+			sourceTree = "<group>";
+		};
+		81143BDE1DF6652F004C3B20 /* Flower */ = {
+			isa = PBXGroup;
+			children = (
+				81143BDF1DF6653C004C3B20 /* daisy.jpg */,
+				81143BF11DF66B5B004C3B20 /* Lotus.png */,
+				81143BE11DF6653C004C3B20 /* orchid.jpg */,
+				81143BE21DF6653C004C3B20 /* Rose.jpg */,
+				81143BE31DF6653C004C3B20 /* Sunflower.jpg */,
+			);
+			name = Flower;
+			sourceTree = "<group>";
+		};
 		81B38CB31DF522A700874DC0 = {
 			isa = PBXGroup;
 			children = (
+				81143BEB1DF66865004C3B20 /* FlowerList.plist */,
+				81143BE91DF667F7004C3B20 /* ColorList.plist */,
+				81B38E001DF55C0000874DC0 /* AnimalsList.plist */,
+				81B38E011DF55C0000874DC0 /* FruitsList.plist */,
 				81B38CBE1DF522A700874DC0 /* English4Kids */,
 				81B38CBD1DF522A700874DC0 /* Products */,
 			);
@@ -154,6 +231,7 @@
 				81B38CBF1DF522A700874DC0 /* AppDelegate.swift */,
 				81B38CC31DF522A700874DC0 /* Main.storyboard */,
 				81B38CD11DF524C800874DC0 /* MasterTableVC.swift */,
+				81B38DFC1DF5588B00874DC0 /* DetailVC.swift */,
 				81B38CC61DF522A700874DC0 /* Assets.xcassets */,
 				81B38CC81DF522A700874DC0 /* LaunchScreen.storyboard */,
 				81B38CCB1DF522A700874DC0 /* Info.plist */,
@@ -164,6 +242,10 @@
 		81B38D991DF5553600874DC0 /* Photos */ = {
 			isa = PBXGroup;
 			children = (
+				81143BDE1DF6652F004C3B20 /* Flower */,
+				81143BEF1DF6692E004C3B20 /* flower.jpeg */,
+				81143BC91DF6651D004C3B20 /* Color */,
+				81143BED1DF6691C004C3B20 /* Color.png */,
 				81B38D9A1DF5553600874DC0 /* Animals */,
 				81B38DB61DF5553600874DC0 /* animals.jpeg */,
 				81B38DB71DF5553600874DC0 /* Fruits */,
@@ -293,17 +375,22 @@
 			buildActionMask = 2147483647;
 			files = (
 				81B38DF21DF5553600874DC0 /* mango.jpg in Resources */,
+				81143BE81DF6653C004C3B20 /* Sunflower.jpg in Resources */,
 				81B38DF41DF5553600874DC0 /* papaya.jpg in Resources */,
 				81B38DE71DF5553600874DC0 /* animals.jpeg in Resources */,
 				81B38DF51DF5553600874DC0 /* passion fruit.jpg in Resources */,
 				81B38DDE1DF5553600874DC0 /* mosquito.jpg in Resources */,
 				81B38DDF1DF5553600874DC0 /* mouse.png in Resources */,
 				81B38DEB1DF5553600874DC0 /* blackberry.png in Resources */,
+				81143BD51DF6652A004C3B20 /* blue.jpg in Resources */,
 				81B38DED1DF5553600874DC0 /* coconut.png in Resources */,
 				81B38DD61DF5553600874DC0 /* dog.png in Resources */,
 				81B38DDD1DF5553600874DC0 /* lion.jpg in Resources */,
 				81B38CCA1DF522A700874DC0 /* LaunchScreen.storyboard in Resources */,
+				81143BD81DF6652A004C3B20 /* orange.jpg in Resources */,
+				81143BF21DF66B5B004C3B20 /* Lotus.png in Resources */,
 				81B38DD91DF5553600874DC0 /* fly.jpg in Resources */,
+				81143BEA1DF667F7004C3B20 /* ColorList.plist in Resources */,
 				81B38DD31DF5553600874DC0 /* cat.jpg in Resources */,
 				81B38DE91DF5553600874DC0 /* avocado.jpg in Resources */,
 				81B38DD21DF5553600874DC0 /* butterfly.png in Resources */,
@@ -311,27 +398,42 @@
 				81B38DF91DF5553700874DC0 /* strawberry.jpg in Resources */,
 				81B38DE01DF5553600874DC0 /* peafowl.jpg in Resources */,
 				81B38DCC1DF5553600874DC0 /* ant.png in Resources */,
+				81143BDD1DF6652A004C3B20 /* yellow.jpg in Resources */,
 				81B38DE61DF5553600874DC0 /* turtle.png in Resources */,
+				81143BD61DF6652A004C3B20 /* brown.jpg in Resources */,
 				81B38DDC1DF5553600874DC0 /* hawk.jpg in Resources */,
+				81143BDC1DF6652A004C3B20 /* white.jpg in Resources */,
 				81B38DF11DF5553600874DC0 /* lychee.jpg in Resources */,
 				81B38DE81DF5553600874DC0 /* apple.png in Resources */,
+				81143BF01DF6692E004C3B20 /* flower.jpeg in Resources */,
 				81B38DD81DF5553600874DC0 /* fish.png in Resources */,
 				81B38DEE1DF5553600874DC0 /* grape.png in Resources */,
 				81B38CC71DF522A700874DC0 /* Assets.xcassets in Resources */,
+				81143BD91DF6652A004C3B20 /* pink.jpg in Resources */,
 				81B38DFB1DF5553700874DC0 /* fruits.png in Resources */,
 				81B38DF31DF5553600874DC0 /* melon.jpg in Resources */,
+				81143BD41DF6652A004C3B20 /* black.jpg in Resources */,
 				81B38DE31DF5553600874DC0 /* spider.png in Resources */,
 				81B38DEF1DF5553600874DC0 /* kiwi.jpg in Resources */,
+				81143BEC1DF66865004C3B20 /* FlowerList.plist in Resources */,
 				81B38DD11DF5553600874DC0 /* buffalo.jpg in Resources */,
 				81B38DF71DF5553600874DC0 /* pineapple.jpg in Resources */,
 				81B38CC51DF522A700874DC0 /* Main.storyboard in Resources */,
+				81143BD71DF6652A004C3B20 /* green.jpg in Resources */,
 				81B38DD01DF5553600874DC0 /* bird.png in Resources */,
 				81B38DEA1DF5553600874DC0 /* banana.png in Resources */,
+				81143BEE1DF6691C004C3B20 /* Color.png in Resources */,
 				81B38DF01DF5553600874DC0 /* lemon.jpg in Resources */,
+				81B38E021DF55C0000874DC0 /* AnimalsList.plist in Resources */,
+				81143BE71DF6653C004C3B20 /* Rose.jpg in Resources */,
+				81143BE41DF6653C004C3B20 /* daisy.jpg in Resources */,
 				81B38DCF1DF5553600874DC0 /* bee.png in Resources */,
 				81B38DDB1DF5553600874DC0 /* frog.png in Resources */,
+				81143BE61DF6653C004C3B20 /* orchid.jpg in Resources */,
 				81B38DE21DF5553600874DC0 /* snake.png in Resources */,
+				81B38E031DF55C0000874DC0 /* FruitsList.plist in Resources */,
 				81B38DE51DF5553600874DC0 /* tiger.jpg in Resources */,
+				81143BDA1DF6652A004C3B20 /* purple.jpg in Resources */,
 				81B38DCD1DF5553600874DC0 /* bat.jpg in Resources */,
 				81B38DD71DF5553600874DC0 /* duck.png in Resources */,
 				81B38DFA1DF5553700874DC0 /* watermelon.png in Resources */,
@@ -341,6 +443,7 @@
 				81B38DDA1DF5553600874DC0 /* fox.png in Resources */,
 				81B38DCE1DF5553600874DC0 /* bear.png in Resources */,
 				81B38DE11DF5553600874DC0 /* snail.png in Resources */,
+				81143BDB1DF6652A004C3B20 /* red.jpg in Resources */,
 				81B38DD41DF5553600874DC0 /* crab.png in Resources */,
 				81B38DF61DF5553600874DC0 /* peach.jpg in Resources */,
 			);
@@ -355,6 +458,7 @@
 			files = (
 				81B38CC01DF522A700874DC0 /* AppDelegate.swift in Sources */,
 				81B38CD21DF524C800874DC0 /* MasterTableVC.swift in Sources */,
+				81B38DFD1DF5588B00874DC0 /* DetailVC.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -518,6 +622,7 @@
 				81B38CD01DF522A700874DC0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
